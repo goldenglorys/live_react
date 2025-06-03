@@ -1,0 +1,1 @@
+import{j as e}from"./server.js";import"util";import"crypto";import"async_hooks";import"stream";const n=()=>e.jsxs("div",{children:[e.jsx("h2",{children:"I am a lazily loaded component!"}),e.jsx("p",{children:"The esbuild config and the script in `root.html.heex` need to updated check source code"})]});export{n as default};
